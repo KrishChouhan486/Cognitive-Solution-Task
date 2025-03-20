@@ -87,6 +87,20 @@ This API returns metadata including Title, Authors, Date, and Affiliations.
 
 ---
 
+### 📸 Screenshot of my project
+![Screenshot 1](https://raw.githubusercontent.com/KrishChouhan486/Cognitive-Solution-Task/main/1%20photo.png)
+
+![Screenshot 3](https://github.com/KrishChouhan486/Cognitive-Solution-Task/blob/ca70ee016a8cd4b197015bda4b1ce40dd2a3073a/Screenshot%202025-03-20%20171620.png)
+
+
+
+![Screenshot 2](https://raw.githubusercontent.com/KrishChouhan486/Cognitive-Solution-Task/main/Screenshot%202025-03-20%20171641.png)
+
+
+
+---
+
+
 ### 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a Pull Request. 💡
 
